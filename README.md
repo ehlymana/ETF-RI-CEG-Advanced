@@ -12,5 +12,5 @@ Structure of the repository:
 If you use this tool for your research, please cite the following work:
 
 ```
-E. Krupalija, E. Cogo, A. Karabegović, S. Omanović, R. Turčinhodžić Mulahasanović, and I. Bešić, "ETF-RI-CEG-Advanced: A graphical tool for black-box testing by using cause-effect graphs", submitted to SoftwareX, 2023.
+E. Krupalija, E. Cogo, S. Omanović, A. Karabegović, R. Turčinhodžić Mulahasanović, and I. Bešić, "ETF-RI-CEG-Advanced: A graphical tool for black-box testing by using cause-effect graphs", submitted to SoftwareX, 2023.
 ```

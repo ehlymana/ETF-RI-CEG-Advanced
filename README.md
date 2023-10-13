@@ -4,10 +4,10 @@ All details about the installation and usage of this tool can be found at the [E
 
 Structure of the repository:
 
-* **Build** folder - contains the executive files of the software tool used for its installation by users of different operating systems.
-* **Source code** folder - contains the C# programming code of the .NET Windows Forms desktop application, including the UI and all implemented algorithms.
-* **Machine learning** folder - contains the C# programming code of the ML.NET console application used for pre-training the feasibility analysis model.
-* **Examples** folder - contains the exported TXT cause-effect graph specifications which can be used for usage in the software tool.
+* **bin** folder - contains the executive files of the software tool used for its installation by users of different operating systems.
+* **src** folder - contains the C# programming code of the .NET Windows Forms desktop application, including the UI and all implemented algorithms.
+* **ml** folder - contains the C# programming code of the ML.NET console application used for pre-training the feasibility analysis model.
+* **examples** folder - contains the exported TXT cause-effect graph specifications which can be used for usage in the software tool.
 
 If you use this tool for your research, please cite the following work:
 

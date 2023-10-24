@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEG-MLNET", "CEG-MLNET\CEG-MLNET.csproj", "{8FE86AFF-2F9B-41EA-9304-65141E6C1CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE86AFF-2F9B-41EA-9304-65141E6C1CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE86AFF-2F9B-41EA-9304-65141E6C1CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE86AFF-2F9B-41EA-9304-65141E6C1CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE86AFF-2F9B-41EA-9304-65141E6C1CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865AA844-B3D2-4E0E-B7A2-0F407C4DD907}
+	EndGlobalSection
+EndGlobal
